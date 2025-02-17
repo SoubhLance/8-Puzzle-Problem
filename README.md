@@ -106,6 +106,6 @@ If you have any questions or suggestions, feel free to reach out to the project 
 - LinkedIn: [Soubhik Sadhu](https://www.linkedin.com/in/soubhiksadhu)
 - Email: [studysadhu2022@gmail.com](mailto:studysadhu2022@gmail.com)
 
----
+----
 
 Thank you for checking out the **8-Puzzle Problem Solver**! Contributions, suggestions, and feedback are always welcome.
